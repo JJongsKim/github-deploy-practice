@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/github-deploy-practice/static/js/main.2f5a0fa4.js",
+    "static/js/787.ec7f2347.chunk.js": "/github-deploy-practice/static/js/787.ec7f2347.chunk.js",
+    "index.html": "/github-deploy-practice/index.html",
+    "main.2f5a0fa4.js.map": "/github-deploy-practice/static/js/main.2f5a0fa4.js.map",
+    "787.ec7f2347.chunk.js.map": "/github-deploy-practice/static/js/787.ec7f2347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2f5a0fa4.js"
+  ]
+}
